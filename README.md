@@ -6,7 +6,7 @@ Senior Flutter Developer
 
 I'm a self-taught Flutter developer with a passion for building beautiful and functional mobile applications.
 
-* 🌍  I'm a Malaysian, currently based in Singapore.
+* 🌍  I'm currently based in Malaysia.
 * ✉️  You can contact me at [pczn0327@gmail.com](mailto:pczn0327@gmail.com)
 * ⚡  I am an Electrical and Electronic Engineering graduate.
 
